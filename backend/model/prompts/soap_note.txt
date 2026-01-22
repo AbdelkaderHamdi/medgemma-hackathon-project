@@ -1,0 +1,28 @@
+Generate a comprehensive SOAP note based on the clinical conversation:
+
+SUBJECTIVE:
+- Chief Complaint
+- History of Present Illness
+- Review of Systems
+- Past Medical History
+- Medications and Allergies
+- Social History
+
+OBJECTIVE:
+- Vital Signs
+- Physical Examination (by system)
+- Diagnostic Test Results
+
+ASSESSMENT:
+- Problem List
+- Differential Diagnosis
+- Clinical Reasoning
+- Severity Assessment
+
+PLAN:
+- Diagnostic Tests Ordered
+- Medications Prescribed
+- Treatment Interventions
+- Patient Education
+- Follow-up Instructions
+- Referrals if Needed

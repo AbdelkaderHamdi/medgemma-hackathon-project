@@ -1,0 +1,25 @@
+Document a progress note:
+
+DATE/TIME:
+SUBJECTIVE:
+- Patient's reported progress since last visit
+- Current symptoms
+- Response to treatment
+- New concerns
+
+OBJECTIVE:
+- Current vital signs
+- Physical examination findings
+- Lab/imaging results since last visit
+- Assessment parameters
+
+ASSESSMENT:
+- Clinical progress assessment
+- Problem status (improved/worsened/unchanged)
+- Complications or new issues
+
+PLAN:
+- Continue/change current treatments
+- New orders or interventions
+- Patient instructions
+- Next follow-up appointment
